@@ -1,0 +1,16 @@
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\253504_Frolenko_Lab6\Debug\net6.0\253504_Frolenko_Lab6.deps.json
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\253504_Frolenko_Lab6\Debug\net6.0\253504_Frolenko_Lab6.runtimeconfig.json
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\253504_Frolenko_Lab6\Debug\net6.0\253504_Frolenko_Lab6.exe
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\253504_Frolenko_Lab6\Debug\net6.0\FileService.deps.json
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\253504_Frolenko_Lab6\Debug\net6.0\FileService.dll
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\253504_Frolenko_Lab6\Debug\net6.0\FileService.pdb
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\FileService\obj\Debug\net6.0\FileService.csproj.AssemblyReference.cache
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\FileService\obj\Debug\net6.0\FileService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\FileService\obj\Debug\net6.0\FileService.AssemblyInfoInputs.cache
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\FileService\obj\Debug\net6.0\FileService.AssemblyInfo.cs
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\FileService\obj\Debug\net6.0\FileService.csproj.CoreCompileInputs.cache
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\FileService\obj\Debug\net6.0\FileService.csproj.CopyComplete
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\FileService\obj\Debug\net6.0\FileService.dll
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\FileService\obj\Debug\net6.0\refint\FileService.dll
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\FileService\obj\Debug\net6.0\FileService.pdb
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\FileService\obj\Debug\net6.0\ref\FileService.dll
