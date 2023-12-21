@@ -1,0 +1,19 @@
+  ADDR B1 B2 B3 B4 C:\Users\kira1\OneDrive\Рабочий стол\Assembler\  PAGE       1
+
+  C000 CE 00 00     ldx #$00
+  C003 18 CE 01 00  ldy #$100
+                   swap_loop:
+  C007 A6 00        ldaa $0000,x
+  C009 97 FF        staa $00ff
+  C00B 18 A6 00     ldaa $0000,y
+  C00E A7 00        staa $0000,x
+  C010 96 FF        ldaa $00ff
+  C012 18 A7 00     staa $0000,y
+  C015 08           inx
+  C016 18 09        dey
+  C018 18 8C 00 80  cpy #$80
+  C01C 24 E9        bcc swap_loop
+
+  Symbol Table 
+
+  SWAP_LOOP          C007
