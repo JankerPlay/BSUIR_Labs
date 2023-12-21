@@ -1,0 +1,22 @@
+  ADDR B1 B2 B3 B4 thrass11.tmp                                     PAGE       1
+
+  C000 86 0F        ldaa #%00001111
+  C002 B7 80 00     staa $8000
+  C005 86 F0        ldaa #%11110000
+  C007 B7 80 01     staa $8001
+  C00A 86 AA        ldaa #%10101010
+  C00C B7 80 02     staa $8002
+  C00F 78 80 02     lsl $8002
+  C012 79 80 01     rol $8001
+  C015 79 80 00     rol $8000
+  C018 07           tpa
+  C019 84 01        anda #%00000001
+  C01B 81 01        cmpa #%00000001
+  C01D 26 03        bne stop
+  C01F 7C 80 02     inc $8002
+                   stop:
+
+
+  Symbol Table 
+
+  STOP               C022
