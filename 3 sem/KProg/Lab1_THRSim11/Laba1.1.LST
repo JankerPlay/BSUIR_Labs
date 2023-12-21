@@ -1,0 +1,11 @@
+  ADDR B1 B2 B3 B4 C:\Users\kira1\OneDrive\Рабочий стол\Assembler\  PAGE       1
+
+  C000 B7 81 00     STAA $8100
+  C003 F7 81 01     STAB $8101
+  C006 FF 81 02     STX $8102
+  C009 18 FF 81 04  STY $8104
+  C00D 07           TPA
+  C00E B7 81 06     STAA $8106
+  C011 BF 81 07     STS $8107
+
+
