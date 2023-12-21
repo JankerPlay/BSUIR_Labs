@@ -1,0 +1,5 @@
+C:/Users/kira1/CLionProjects/Laba5.2/cmake-build-debug/CMakeFiles/Laba5_2.dir
+C:/Users/kira1/CLionProjects/Laba5.2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kira1/CLionProjects/Laba5.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/kira1/CLionProjects/Laba5.2/cmake-build-debug/CMakeFiles/Laba5_2_autogen_timestamp_deps.dir
+C:/Users/kira1/CLionProjects/Laba5.2/cmake-build-debug/CMakeFiles/Laba5_2_autogen.dir
