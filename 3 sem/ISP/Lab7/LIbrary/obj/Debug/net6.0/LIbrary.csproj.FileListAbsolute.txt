@@ -1,0 +1,11 @@
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab7\LIbrary\bin\Debug\net6.0\LIbrary.deps.json
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab7\LIbrary\bin\Debug\net6.0\LIbrary.dll
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab7\LIbrary\bin\Debug\net6.0\LIbrary.pdb
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab7\LIbrary\obj\Debug\net6.0\LIbrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab7\LIbrary\obj\Debug\net6.0\LIbrary.AssemblyInfoInputs.cache
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab7\LIbrary\obj\Debug\net6.0\LIbrary.AssemblyInfo.cs
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab7\LIbrary\obj\Debug\net6.0\LIbrary.csproj.CoreCompileInputs.cache
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab7\LIbrary\obj\Debug\net6.0\LIbrary.dll
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab7\LIbrary\obj\Debug\net6.0\refint\LIbrary.dll
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab7\LIbrary\obj\Debug\net6.0\LIbrary.pdb
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab7\LIbrary\obj\Debug\net6.0\ref\LIbrary.dll
