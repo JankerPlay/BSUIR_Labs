@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "253504_Frolenko_Lab8", "253504_Frolenko_Lab8\253504_Frolenko_Lab8.csproj", "{A3F136FF-24F3-4A94-BD81-1BFEE9E1904F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "Library\Library.csproj", "{EB2E26AA-3BEC-40E1-8CEB-27CE548F5119}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3F136FF-24F3-4A94-BD81-1BFEE9E1904F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F136FF-24F3-4A94-BD81-1BFEE9E1904F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F136FF-24F3-4A94-BD81-1BFEE9E1904F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F136FF-24F3-4A94-BD81-1BFEE9E1904F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB2E26AA-3BEC-40E1-8CEB-27CE548F5119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2E26AA-3BEC-40E1-8CEB-27CE548F5119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB2E26AA-3BEC-40E1-8CEB-27CE548F5119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB2E26AA-3BEC-40E1-8CEB-27CE548F5119}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24A4C57C-507E-46ED-9A38-B22198AF29F4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab3\253504_Frolenko_Lab3\obj\Debug\net6.0\253504_Frolenko_Lab3.csproj.AssemblyReference.cache
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab3\253504_Frolenko_Lab3\obj\Debug\net6.0\253504_Frolenko_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab3\253504_Frolenko_Lab3\obj\Debug\net6.0\253504_Frolenko_Lab3.AssemblyInfoInputs.cache
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab3\253504_Frolenko_Lab3\obj\Debug\net6.0\253504_Frolenko_Lab3.AssemblyInfo.cs
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab3\253504_Frolenko_Lab3\obj\Debug\net6.0\253504_Frolenko_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab3\253504_Frolenko_Lab3\bin\Debug\net6.0\253504_Frolenko_Lab3.exe
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab3\253504_Frolenko_Lab3\bin\Debug\net6.0\253504_Frolenko_Lab3.deps.json
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab3\253504_Frolenko_Lab3\bin\Debug\net6.0\253504_Frolenko_Lab3.runtimeconfig.json
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab3\253504_Frolenko_Lab3\bin\Debug\net6.0\253504_Frolenko_Lab3.dll
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab3\253504_Frolenko_Lab3\bin\Debug\net6.0\253504_Frolenko_Lab3.pdb
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab3\253504_Frolenko_Lab3\bin\Debug\net6.0\Generic.Math.dll
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab3\253504_Frolenko_Lab3\obj\Debug\net6.0\253504_Frolenko_Lab3.csproj.CopyComplete
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab3\253504_Frolenko_Lab3\obj\Debug\net6.0\253504_Frolenko_Lab3.dll
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab3\253504_Frolenko_Lab3\obj\Debug\net6.0\refint\253504_Frolenko_Lab3.dll
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab3\253504_Frolenko_Lab3\obj\Debug\net6.0\253504_Frolenko_Lab3.pdb
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab3\253504_Frolenko_Lab3\obj\Debug\net6.0\253504_Frolenko_Lab3.genruntimeconfig.cache
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab3\253504_Frolenko_Lab3\obj\Debug\net6.0\ref\253504_Frolenko_Lab3.dll

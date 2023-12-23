@@ -1,0 +1,17 @@
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\253504_Frolenko_Lab6\bin\Debug\net6.0\253504_Frolenko_Lab6.exe
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\253504_Frolenko_Lab6\bin\Debug\net6.0\253504_Frolenko_Lab6.deps.json
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\253504_Frolenko_Lab6\bin\Debug\net6.0\253504_Frolenko_Lab6.runtimeconfig.json
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\253504_Frolenko_Lab6\bin\Debug\net6.0\253504_Frolenko_Lab6.dll
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\253504_Frolenko_Lab6\bin\Debug\net6.0\253504_Frolenko_Lab6.pdb
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\253504_Frolenko_Lab6\obj\Debug\net6.0\253504_Frolenko_Lab6.csproj.AssemblyReference.cache
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\253504_Frolenko_Lab6\obj\Debug\net6.0\253504_Frolenko_Lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\253504_Frolenko_Lab6\obj\Debug\net6.0\253504_Frolenko_Lab6.AssemblyInfoInputs.cache
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\253504_Frolenko_Lab6\obj\Debug\net6.0\253504_Frolenko_Lab6.AssemblyInfo.cs
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\253504_Frolenko_Lab6\obj\Debug\net6.0\253504_Frolenko_Lab6.csproj.CoreCompileInputs.cache
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\253504_Frolenko_Lab6\obj\Debug\net6.0\253504_Frolenko_Lab6.dll
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\253504_Frolenko_Lab6\obj\Debug\net6.0\refint\253504_Frolenko_Lab6.dll
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\253504_Frolenko_Lab6\obj\Debug\net6.0\253504_Frolenko_Lab6.pdb
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\253504_Frolenko_Lab6\obj\Debug\net6.0\253504_Frolenko_Lab6.genruntimeconfig.cache
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\253504_Frolenko_Lab6\obj\Debug\net6.0\ref\253504_Frolenko_Lab6.dll
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\253504_Frolenko_Lab6\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kira1\OneDrive\Рабочий стол\C#\253504_Frolenko_Lab6\253504_Frolenko_Lab6\obj\Debug\net6.0\253504_Frolenko_Lab6.csproj.CopyComplete

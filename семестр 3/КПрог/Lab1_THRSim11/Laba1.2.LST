@@ -1,0 +1,18 @@
+  ADDR B1 B2 B3 B4 C:\Users\kira1\OneDrive\Рабочий стол\Assembler\  PAGE       1
+
+  C000 96 00        LDAA $0000
+  C002 91 02        CMPA $0002
+  C004 27 02        BEQ SECOND
+  C006 26 09        BNE CLEAR
+  C008 96 01       SECOND LDAA $0001
+  C00A 91 03        CMPA $0003
+  C00C 27 02        BEQ FINISH
+  C00E 26 01        BNE CLEAR
+  C010 3F          FINISH SWI
+  C011 4F          CLEAR CLRA END
+
+  Symbol Table 
+
+  CLEAR              C011
+  SECOND             C008
+  FINISH             C010

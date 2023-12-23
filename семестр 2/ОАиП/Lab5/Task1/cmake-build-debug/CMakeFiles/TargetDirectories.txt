@@ -1,0 +1,5 @@
+C:/Users/kira1/CLionProjects/untitled4/cmake-build-debug/CMakeFiles/untitled4.dir
+C:/Users/kira1/CLionProjects/untitled4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kira1/CLionProjects/untitled4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/kira1/CLionProjects/untitled4/cmake-build-debug/CMakeFiles/untitled4_autogen_timestamp_deps.dir
+C:/Users/kira1/CLionProjects/untitled4/cmake-build-debug/CMakeFiles/untitled4_autogen.dir
