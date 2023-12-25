@@ -1,0 +1,22 @@
+﻿  Source.cpp
+C:\Users\kira1\Desktop\253504\Laba7\Task9\Source.cpp(15,24): warning C4244: аргумент: преобразование "__int64" в "const _Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\kira1\Desktop\253504\Laba7\Task9\Source.cpp(10,13): warning C4101: bin: неиспользованная локальная переменная
+C:\Users\kira1\Desktop\253504\Laba7\Task9\Source.cpp(30,20): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\kira1\Desktop\253504\Laba7\Task9\Source.cpp(32,20): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\kira1\Desktop\253504\Laba7\Task9\Source.cpp(34,20): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\kira1\Desktop\253504\Laba7\Task9\Source.cpp(101,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kira1\Desktop\253504\Laba7\Task9\Source.cpp(114,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kira1\Desktop\253504\Laba7\Task9\Source.cpp(128,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kira1\Desktop\253504\Laba7\Task9\Source.cpp(144,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kira1\Desktop\253504\Laba7\Task9\Source.cpp(160,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kira1\Desktop\253504\Laba7\Task9\Source.cpp(176,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kira1\Desktop\253504\Laba7\Task9\Source.cpp(192,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kira1\Desktop\253504\Laba7\Task9\Source.cpp(208,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kira1\Desktop\253504\Laba7\Task9\Source.cpp(224,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kira1\Desktop\253504\Laba7\Task9\Source.cpp(238,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kira1\Desktop\253504\Laba7\Task9\Source.cpp(252,29): warning C4018: <: несоответствие типов со знаком и без знака
+  Task9.vcxproj -> C:\Users\kira1\Desktop\253504\Laba7\x64\Debug\Task9.exe

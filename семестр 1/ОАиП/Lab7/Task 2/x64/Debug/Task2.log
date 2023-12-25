@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\kira1\Desktop\253504\Laba7\Task2\Source.cpp(14,10): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\kira1\Desktop\253504\Laba7\Task2\Source.cpp(15,10): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\kira1\Desktop\253504\Laba7\Task2\Source.cpp(105,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kira1\Desktop\253504\Laba7\Task2\Source.cpp(117,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Task2.vcxproj -> C:\Users\kira1\Desktop\253504\Laba7\x64\Debug\Task2.exe

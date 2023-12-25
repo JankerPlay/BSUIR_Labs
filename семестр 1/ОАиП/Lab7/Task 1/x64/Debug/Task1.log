@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\kira1\Desktop\253504\Laba7\Task1\Source.cpp(14,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kira1\Desktop\253504\Laba7\Task1\Source.cpp(26,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Task1.vcxproj -> C:\Users\kira1\Desktop\253504\Laba7\x64\Debug\Task1.exe

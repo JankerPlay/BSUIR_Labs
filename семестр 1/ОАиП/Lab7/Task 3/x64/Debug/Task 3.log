@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\kira1\Desktop\253504\Laba7\Task 3\Source.cpp(128,26): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\kira1\Desktop\253504\Laba7\Task 3\Source.cpp(160,31): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\kira1\Desktop\253504\Laba7\Task 3\Source.cpp(163,31): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\kira1\Desktop\253504\Laba7\Task 3\Source.cpp(168,33): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\kira1\Desktop\253504\Laba7\Task 3\Source.cpp(172,33): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\kira1\Desktop\253504\Laba7\Task 3\Source.cpp(175,22): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\kira1\Desktop\253504\Laba7\Task 3\Source.cpp(178,32): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\kira1\Desktop\253504\Laba7\Task 3\Source.cpp(182,30): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\kira1\Desktop\253504\Laba7\Task 3\Source.cpp(188,32): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\kira1\Desktop\253504\Laba7\Task 3\Source.cpp(195,30): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\kira1\Desktop\253504\Laba7\Task 3\Source.cpp(200,21): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+  Task 3.vcxproj -> C:\Users\kira1\Desktop\253504\Laba7\x64\Debug\Task3.exe
