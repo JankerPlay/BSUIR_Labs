@@ -10,3 +10,4 @@
 - [Программирование](https://github.com/JankerPlay/BSUIR_Labs/tree/main/%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80%202/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5) (Гламаздин И.И.)
 - [ОАиП](https://github.com/JankerPlay/BSUIR_Labs/tree/main/%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80%202/%D0%9E%D0%90%D0%B8%D0%9F) (Владымцев В.Д.)
 ### [Первый семестр (2022)](https://github.com/JankerPlay/BSUIR_Labs/tree/main/%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80%201)
+- [ОАиП](https://github.com/JankerPlay/BSUIR_Labs/tree/main/%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80%201/%D0%9E%D0%90%D0%B8%D0%9F) (Владымцев В.Д.)
